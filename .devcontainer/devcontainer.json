@@ -1,5 +1,8 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "build": {
+		"dockerfile": "Dockerfile",
+		"context": ".."
+	},
   "hostRequirements": {
     "cpus": 4
   },

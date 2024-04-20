@@ -11,7 +11,7 @@
   "postCreateCommand": "",
   "customizations": {
     "codespaces": {
-      "openFiles": []
+      "openFiles": ["/workspaces/codespaces-manim/notebooks/impredicativty.ipynb"]
     },
     "vscode": {
       "extensions": [

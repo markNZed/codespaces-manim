@@ -11,6 +11,5 @@ RUN apt-get update \
 
 # To avoid an error when running pip    
 RUN mkdir /manim/.cache
-# To avoid warning of empty plugins list in notebook
-RUN pip install manim_plugintemplate
+
     

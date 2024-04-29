@@ -3,5 +3,5 @@ notebooks/cifar_net.pth
 .ipynb_checkpoints/
 partial_movie_files
 src/notebook/media/*
-!src/notebook/media/videos/notebook
+!src/notebook/media/videos
 __pycache__
